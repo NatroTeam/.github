@@ -1,5 +1,5 @@
 name: 🐞 Bug Report
-description: Report an issue or error message in Natro Macro
+description: Report an issue or error message in Natro Macro.
 labels: ["type:bug"]
 
 body:
