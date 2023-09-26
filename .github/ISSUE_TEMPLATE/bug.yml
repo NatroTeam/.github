@@ -14,7 +14,7 @@ body:
         - Natro Macro is maintained by volunteers. Please be patient when waiting for a response.
         - Remember to include sufficient details and context.
         - If you have multiple bugs to report, please submit them in separate issues.
-        - We accept pull requests. If you know how to fix it - go ahead!<br>
+        - We accept pull requests. If you know how to fix it - go ahead!
 
   - type: checkboxes
     attributes:
