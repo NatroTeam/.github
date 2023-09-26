@@ -1,7 +1,6 @@
 name: 🐞 Bug Report
 description: Report an issue or error message in Natro Macro.
-title: "[BUG] <title>"
-labels: ["type:bug"]
+labels: ["bug"]
 
 body:
   - type: markdown
