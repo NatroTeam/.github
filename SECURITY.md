@@ -5,7 +5,7 @@
 
 If you've identified a security vulnerability in Natro Macro, $\color{red}\large{\textsf{do not}}$ mention it publicly until we’ve had a chance to fix it.
 
-You can either use [this form](../security/advisories/new), or send a DM to an Admin or a Natro Dev Team member in our [Discord server](https://discord.gg/natromacro) including:
+You can either use [this form](https://github.com/NatroTeam/NatroMacro/security/advisories/new), or send a DM to an Admin or a Natro Dev Team member in our [Discord server](https://discord.gg/natromacro) including:
 
 - the macro version where the vulnerability was found
 - a brief description of the vulnerability
