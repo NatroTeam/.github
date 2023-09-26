@@ -1,6 +1,6 @@
 name: 🐞 Bug Report
 description: Report an issue or error message in Natro Macro.
-labels: ["bug"]
+labels: ["bug", "needs triage"]
 
 body:
   - type: markdown
@@ -13,11 +13,16 @@ body:
         - All bug reports are welcome - we want to fix them!
         - Natro Macro is maintained by volunteers. Please be patient when waiting for a response.
         - Remember to include sufficient details and context.
-        - Please search to see if an issue already exists for the bug you encountered.
         - If you have multiple bugs to report, please submit them in separate issues.
-        - We accept pull requests. If you know how to fix it - go ahead!
-        
-        Please provide the following details about the issue you encountered:
+        - We accept pull requests. If you know how to fix it - go ahead!<br>
+
+  - type: checkboxes
+    attributes:
+      label: "Is there an existing bug report for this?"
+      description: "Please search [here](../labels/bug) to see if an issue already exists for the bug you encountered"
+      options:
+      - label: "I have searched the existing bug reports"
+        required: true
 
   - type: textarea
     id: bug
@@ -52,7 +57,7 @@ body:
   - type: input
     attributes:
       label: Natro Macro version
-      description: What Natro Macro version are you using?
+      description: What version of Natro Macro were you using?
     validations:
       required: true
 
