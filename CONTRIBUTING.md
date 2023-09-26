@@ -1,6 +1,6 @@
 # Contributing Guidelines
 
-All contributions are welcomed and valued, including bug reports, suggestions, pull requests, and more. We highly appreciate any attempt to make Natro Macro better!
+All contributions are welcomed and valued, including bug reports, suggestions, pull requests, and more. We appreciate anything that makes Natro Macro better!
 
 Remember that contributions don't have to involve code. Answering questions, helping others, and improving the documentation are also immensely valuable ways to contribute.
 
