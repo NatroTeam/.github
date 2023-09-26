@@ -5,7 +5,7 @@ labels: ["type:bug"]
 body:
   - type: markdown
     attributes:
-      value: "
+      value: |
         Thank you for reporting a bug! Use the sections below to submit a bug report.
 
       - Make sure you have asked in our [Discord server](https://discord.gg/natromacro) for support.
@@ -15,9 +15,8 @@ body:
       - If you have multiple bugs to report, please submit them in separate issues.
       - We accept pull requests. If you know how to fix it - go ahead!
 
-      Please provide the following details about the issue you encountered.
-      *Issues that do not provide the information requested in this form will be flagged as **incomplete** & automatically closed.*
-    "
+      Please provide the following details about the issue you encountered.<br>
+      Issues that do not provide the information requested in this form will be flagged as $\color{red}{INCOMPLETE}$ & automatically closed.
 
   - type: textarea
     id: bug
