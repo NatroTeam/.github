@@ -16,13 +16,15 @@ body:
         - If you have multiple features to suggest, please submit them in separate issues.
         - We accept pull requests. If you know how to code it - go ahead!
 
-  - type: checkboxes
+  - type: dropdown
     attributes:
-      label: "Is there an existing suggestion that is already proposing this?"
-      description: "Please search [here](../labels/suggestion) to see if a suggestion already exists for the feature you are requesting."
+      label: Have you searched the existing suggestions?
+      description: Please search [here](../labels/suggestion) to see if a suggestion already exists for the feature you are requesting.
       options:
-      - label: "I have searched the existing suggestions"
-        required: true
+        - 'No'
+        - 'Yes'
+    validations:
+      required: true
 
   - type: textarea
     id: suggestion
