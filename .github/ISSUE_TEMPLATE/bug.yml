@@ -21,8 +21,8 @@ body:
       label: Have you searched the existing bug reports?
       description: Please search [here](../labels/bug) to see if an issue already exists for the bug you encountered.
       options:
-        - No
-        - Yes
+        - 'No'
+        - 'Yes'
     validations:
       required: true
 
