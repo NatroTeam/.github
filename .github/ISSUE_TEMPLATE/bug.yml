@@ -16,13 +16,15 @@ body:
         - If you have multiple bugs to report, please submit them in separate issues.
         - We accept pull requests. If you know how to fix it - go ahead!
 
-  - type: checkboxes
+  - type: dropdown
     attributes:
-      label: "Is there an existing bug report for this?"
-      description: "Please search [here](../labels/bug) to see if an issue already exists for the bug you encountered."
+      label: Have you searched the existing bug reports?
+      description: Please search [here](../labels/bug) to see if an issue already exists for the bug you encountered.
       options:
-      - label: "I have searched the existing bug reports"
-        required: true
+        - No
+        - Yes
+    validations:
+      required: true
 
   - type: textarea
     id: bug
