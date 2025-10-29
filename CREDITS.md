@@ -27,7 +27,7 @@ Many thanks to all of the original authors!
 #### Libraries (`lib`)
  - [Gdip_All.ahk][lib-gdip] made by various contributors, current version uses [@marius-sucan](https://github.com/marius-sucan)'s fork
  - [Gdip_ImageSearch.ahk][lib-gdip-imagesearch] made by [@MasterFocus](https://github.com/MasterFocus) and [@mmikeww](https://github.com/mmikeww)
- - [JSON.ahk][lib-json] made by [@Chunjee](https://github.com/Chunjee)
+ - [JSON.ahk][lib-json] made by [@thqby](https://github.com/thqby) and [@HotKeyIt](https://github.com/HotKeyIt)
 
 #### Libraries (other)
  - [UWP OCR][lib-ocr] made by malcev (AutoHotkey forum), used to detect Honey in [StatMonitor.ahk](https://github.com/NatroTeam/NatroMacro/blob/main/submacros/StatMonitor.ahk)
@@ -48,7 +48,7 @@ Many thanks to all of the original authors!
 [discord-link]: https://discord.gg/natromacro
 [lib-gdip]: https://github.com/marius-sucan/AHK-GDIp-Library-Compilation/blob/master/ahk-v1-1/Gdip_All.ahk
 [lib-gdip-imagesearch]: https://github.com/MasterFocus/AutoHotkey/blob/master/Functions/Gdip_ImageSearch/Gdip_ImageSearch.ahk
-[lib-json]: https://github.com/Chunjee/json.ahk
+[lib-json]: https://github.com/thqby/ahk2_lib/blob/master/JSON.ahk
 [lib-ocr]: https://www.autohotkey.com/boards/viewtopic.php?t=72674
 [lib-discord]: https://github.com/G33kDude/Discord.ahk
 [func-skin]: https://www.autohotkey.com/boards/viewtopic.php?t=5841
